@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello desde a module, Gophers!!!")
+	fmt.Println("Hello desde modulo main.go en Git, Gophers!!!")
 }
